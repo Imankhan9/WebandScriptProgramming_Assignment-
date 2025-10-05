@@ -7,12 +7,22 @@ body {
     margin: 0;
 }
 
+#wrapper {
+    width: 960px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#998187 ;
+    }
+
 header h1 {
     margin: 0;
     font-size: 48px;
-    color: black;
-    text-align: right;
+    color: #33161E;
+    text-align: left;
 }
+
+
 
 .Image img {
 width: 100px;
