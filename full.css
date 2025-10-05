@@ -11,7 +11,7 @@ header h1 {
     margin: 0;
     font-size: 48px;
     color: black;
-    align-content:end;
+    text-align: right;
 }
 
 .Image img {
