@@ -5,18 +5,13 @@ body {
     font-family: "Roboto", sans-serif;
     padding: 0;
     margin: 0;
+    border: #33161E;
 }
 
-#wrapper {
-    width: 960px;
-    height: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    background-color:#998187;
-    border: 5px solid black;
-    
+#banner{
+    height:120px;
+    background-color: #998187 ;
     }
-
 header h1 {
     margin: 0;
     font-size: 48px;
