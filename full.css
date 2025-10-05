@@ -8,10 +8,29 @@ body {
     border: #33161E;
 }
 
+#right-column {
+    float: right;
+    width: 600px;
+    height: 600px;
+    background-color: #998187;
+    padding: 10px;
+}
+
+#left-column {
+    float: left;
+    width: 360px;
+    height: 600px;
+    background-color: #CC9BA8;
+    padding: 10px;
+}
+
+
+
 #banner{
     height:120px;
     background-color: #998187 ;
     }
+    
 header h1 {
     margin: 0;
     font-size: 48px;
