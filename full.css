@@ -7,12 +7,18 @@ body {
     margin: 0px;
 }
 
-
+#wrapper {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #33161E;
+}
 
 /* Top banner */
 #banner {
     height: 120px;
     background-color: #33161E;
+    text-align: center;
 
 }
 
@@ -20,6 +26,7 @@ body {
     color:white;
     font-size: 48px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
 }
 
 /* Left column */
