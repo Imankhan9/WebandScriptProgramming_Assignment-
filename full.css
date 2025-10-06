@@ -20,7 +20,7 @@ body {
 #left-column {
     float: left;
     width: 340px;
-    height:max-content;
+    height:900px;
     background-color: #33161E;
     padding: 10px;
 }
@@ -34,6 +34,10 @@ header h1 {
 
 #footer {
     height: 70px;
+    background-color: #33161E;
+    text-align: center;
+    padding: 20px 0;
+
 }
 
 .Image img {
