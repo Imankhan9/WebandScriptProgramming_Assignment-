@@ -53,10 +53,15 @@ body {
 }
 
 .Image img {
-width: 50px;
+width: 300px;
 height: auto;
+padding: 15px; 
+margin: 15px; 
+background-color:black; 
+border:2px white solid; 
+box-shadow: 10px 10px 5px black;
+}
 
-} 
 
 video
 { 
