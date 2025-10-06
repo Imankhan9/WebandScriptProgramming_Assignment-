@@ -54,7 +54,17 @@ body {
 }
 
 .Image img {
-width: 100px;
+width: 50px;
 height: auto;
 
 } 
+
+video
+{ 
+    width: 400px; 
+    padding: 15px; 
+    margin: 15px; 
+    background-color:black; 
+    border:2px white solid; 
+    box-shadow: 10px 10px 5px black;
+}
