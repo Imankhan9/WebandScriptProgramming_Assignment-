@@ -62,8 +62,7 @@ box-shadow: 10px 10px 5px black;
 }
 
 
-video
-{ 
+#video { 
     width: 400px; 
     padding: 15px; 
     margin: 15px; 
