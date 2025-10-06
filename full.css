@@ -19,8 +19,8 @@ body {
 
 #left-column {
     float: left;
-    width: 360px;
-    height: auto;
+    width: 340px;
+    height:max-content;
     background-color: #33161E;
     padding: 10px;
 }
