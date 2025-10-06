@@ -5,11 +5,10 @@ body {
     font-family: "Roboto", sans-serif;
     padding: 0;
     margin: 0;
-    border: #33161E;
 }
 
 #wrapper {
-    width: 960px;
+    width: 1000px;
     height: 800px;
     margin-left: auto;
     margin-right: auto;
