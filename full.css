@@ -23,6 +23,9 @@ body {
 /* Banner heading */
 #banner h1 {
     color:white;
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-content: center;
 
 }
 
