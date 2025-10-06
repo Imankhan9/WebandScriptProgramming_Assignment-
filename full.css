@@ -72,12 +72,14 @@ box-shadow: 10px 10px 5px black;
 }
 
 /* About me text*/
-#introduction h3{
-    width: fit-content; 
+#introduction {
+    width: 400px; 
     padding: 15px; 
     margin: 15px; 
     background-color:black; 
     border:2px white solid; 
     box-shadow: 10px 10px 5px black;
+    color: white;
+    text-align: center;
 }
 
