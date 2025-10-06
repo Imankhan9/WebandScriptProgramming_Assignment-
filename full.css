@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background: linear-gradient(to right, #CC9BA8,#33161E);
+    background: linear-gradient(to right, #CC9BA8,#33161E); /* Gradient background */
     font-family: "Roboto", sans-serif;
     padding: 0px;
     margin: 0px;
@@ -20,12 +20,9 @@ body {
     background-color: #33161E;
 }
 
+/* Banner heading */
 #banner h1 {
     color:white;
-    font-size: 48px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 0;
-    padding-left: 40px; 
 
 }
 
@@ -42,6 +39,7 @@ body {
 }
 
 
+/*footer banner*/
 #footer {
     background-color: #33161E;
     color: white;
