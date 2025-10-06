@@ -16,13 +16,6 @@ body {
     padding: 20px 0;
 }
 
-#right-column {
-    float: right;
-    width: 600px;
-    height: 600px;
-    background-color: #998187;
-    padding: 10px;
-}
 
 #left-column {
     float: left;
