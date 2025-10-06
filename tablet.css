@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+body {
+    background: linear-gradient(to right, #CC9BA8,#33161E);
+    font-family: "Roboto", sans-serif;
+    padding: 0;
+    margin: 0;
+    min-height: 100vh;
+}
+
+#wrapper {
+    width: 90%; 
+    max-width: 960px;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+/* Top banner */
+#banner {
+    height: 120px;
+    background-color: #33161E;
+    text-align: center;      
+    padding: 0 15px;
+}
+
+/* Banner heading */
+#banner h1 {
+    color: white;
+    font-size: 40px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+/* Clear fix */
+.clear {
+    clear: both;
+}
+
+/* Footer */
+#footer {
+    background-color: #33161E;
+    color: white;
+    text-align: center;
+    padding: 12px 0;
+    height: auto;
+    width: 100%;
+}
+
+/* Image */
+.Image img {
+    width: 100%;          
+    max-width: 250px;
+    padding: 12px;
+    margin: 12px auto;
+    display: block;
+    background-color: black; 
+    border: 2px white solid; 
+    box-shadow: 6px 6px 5px black;
+}
+
+/* Video */
+#video { 
+    width: 100%;          
+    padding: 12px; 
+    margin: 12px auto;
+    display: block;
+    background-color: black; 
+    border: 2px white solid; 
+    box-shadow: 6px 6px 5px black;
+}
