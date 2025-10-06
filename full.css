@@ -9,17 +9,18 @@ body {
 }
 
 #wrapper {
-    width: 100%;
-    min-height: 100%;
-    margin: 0;
+    width: 960px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #33161E;
 }
 
 /* Top banner */
 #banner {
+    height: 120px;
     background-color: #33161E;
-    color: white;
-    text-align: center;
-    padding: 20px 0;
+
 }
 
 #banner h1 {
