@@ -8,6 +8,14 @@ body {
     border: #33161E;
 }
 
+
+#banner {
+    background-color: #33161E;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
 #right-column {
     float: right;
     width: 600px;
@@ -31,7 +39,9 @@ header h1 {
     text-align: left;
 }
 
-
+#footer {
+    height: 70px;
+}
 
 .Image img {
 width: 100px;
