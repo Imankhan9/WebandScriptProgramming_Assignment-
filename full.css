@@ -53,7 +53,7 @@ body {
 }
 
 .Image img {
-width: 300px;
+width: 200px;
 padding: 15px; 
 margin: 15px; 
 background-color:black; 
@@ -71,3 +71,4 @@ video
     border:2px white solid; 
     box-shadow: 10px 10px 5px black;
 }
+
