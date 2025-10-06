@@ -20,7 +20,7 @@ body {
 #left-column {
     float: left;
     width: 360px;
-    height: 600px;
+    height: auto;
     background-color: #33161E;
     padding: 10px;
 }
