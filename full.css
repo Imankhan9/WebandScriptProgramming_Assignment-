@@ -8,12 +8,24 @@ body {
     border: #33161E;
 }
 
+#wrapper {
+    width: 960px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Top banner */
 #banner {
     background-color: #33161E;
     color: white;
     text-align: center;
     padding: 20px 0;
+}
+
+#banner h1 {
+    colour: black;
+    font-size: 48px;
 }
 
 /* Left column */
@@ -25,12 +37,10 @@ body {
     padding: 20px;
 }
 
-header h1 {
-    margin: 0;
-    font-size: 48px;
-    color: #33161E;
-    text-align: left;
+.clear{
+    clear: both;
 }
+
 
 #footer {
     background-color: #33161E;
