@@ -24,7 +24,7 @@ body {
 }
 
 #banner h1 {
-    colour: black;
+    color: black;
     font-size: 48px;
 }
 
@@ -34,7 +34,6 @@ body {
     width: 340px;
     height:600px;
     background-color: #33161E;
-    padding: 20px;
 }
 
 .clear{
@@ -48,6 +47,7 @@ body {
     text-align: center;
     padding: 15px 0;
     height: 70px;
+    width: 960px;
 
 }
 
