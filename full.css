@@ -20,6 +20,7 @@ body {
 #banner {
     height: 120px;
     background-color: #33161E;
+    align-items: center;
 }
 
 /* Banner heading */
@@ -27,8 +28,9 @@ body {
     color:white;
     font-size: 48px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    align-align: center;
+    text-align: center;
     padding-top: 30px;
+    margin: 0;
 
 }
 
