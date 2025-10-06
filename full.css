@@ -26,6 +26,7 @@ body {
 #banner h1 {
     color: black;
     font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* Left column */
